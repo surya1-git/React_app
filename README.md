@@ -9,7 +9,7 @@ step-1:- clone this repository in your local machine using git command..
 
 step-2:- After cloning project, go to project directory and open the terminal for installing dependencies.
        install all dependencies using below command:-
-       npm install package
+       **npm install package**
        
 step-3:- After intstalling all dependencies, run the React project using below command..
-        npm start
+        **npm start**
